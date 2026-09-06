@@ -1,0 +1,2 @@
+/Users/tarun/SORNET/sornet_admin/android/app/.cxx/RelWithDebInfo/705p2c63/x86/CMakeFiles/edit_cache.dir
+/Users/tarun/SORNET/sornet_admin/android/app/.cxx/RelWithDebInfo/705p2c63/x86/CMakeFiles/rebuild_cache.dir
